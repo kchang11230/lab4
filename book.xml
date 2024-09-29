@@ -1,0 +1,18 @@
+<?xml version= "1.0" ?>
+<my_books>
+    <book id="0001">
+        <title>aaaaa</title >
+        <author>Jack</author>
+        <price>17</price>
+    </book>
+    <book id="0002">
+        <title>bbbb</title >
+        <author>Lucy</author>
+        <price>30</price>
+    </book>
+    <book id="0003">
+        <title>cccc</title >
+        <author>Sue</author>
+        <price>25</price>
+    </book>
+</my_books>
